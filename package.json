@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Metaphore28/labo04_e22/issues"
   },
-  "homepage": "https://github.com/Metaphore28/labo04_e22#readme"
+  "homepage": "https://github.com/Metaphore28/labo04_e22#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
